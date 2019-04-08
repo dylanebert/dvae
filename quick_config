@@ -1,0 +1,2 @@
+#!/bin/bash
+export CONFIG=model/birds_$1_$2/config.json
